@@ -31,3 +31,15 @@
 ### Pithy Quotes
 > The first step is to establish that something is possible; then probability will occur - *Elon Musk* <br>
 > It's hard to soar with the eagles when you're surrounded by turkeys - *Adam Sandler*
+
+---
+```
+$('img').on("error", function() {
+  $(this).attr('src', '/images/missing.png');
+});
+// Or, hide them
+$("img").on("error", function() {
+  $(this).hide();
+});
+```
+
