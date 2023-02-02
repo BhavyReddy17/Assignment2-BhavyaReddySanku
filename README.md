@@ -17,3 +17,12 @@
 * Newzeland
 
 [www.aboutme.com](AboutMe.md)
+
+---
+
+| Name of the country | Purpouse of Visit| No of Days |
+| --- | --- | ---: |
+| United States| Disney has been bringing happiness to children and adults since 1937 | 25 |
+| Canada | A visit to any city with a sports bar during a hockey season | 20 |
+| Australia |  Sydney opera House| 15 |
+| Finland | The Happiest Country in the World, as well as having the world's best education system and cleanest air. | 30 |
