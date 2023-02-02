@@ -11,6 +11,7 @@
 3. Hardik Pandiya
 ---
 ### other teams that would be good to watch play
-+Pakistan <br>
-+England <br>
-+Newzeland<br>
+
+* Pakistan 
+* England 
+* Newzeland
