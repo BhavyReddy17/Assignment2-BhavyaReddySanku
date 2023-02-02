@@ -57,30 +57,6 @@ if ($.browser.chrome) {
   $.browser.safari = false;
   browser = "Chrome";
 }
-
-// Is this a version of Safari?
-if ($.browser.safari) {
-  userAgent = userAgent.substring(userAgent.indexOf('safari/') + 7);	
-  userAgent = userAgent.substring(0,userAgent.indexOf('.'));
-  version = userAgent;	
-  browser = "Safari";
-}
-
-// Is this a version of Mozilla?
-if ($.browser.mozilla) {
-	//Is it Firefox?
-	if (navigator.userAgent.toLowerCase().indexOf('firefox') != -1) {
-		userAgent = userAgent.substring(userAgent.indexOf('firefox/') + 8);
-		userAgent = userAgent.substring(0,userAgent.indexOf('.'));
-		version = userAgent;
-		browser = "Firefox"
-	}
-	// If not then it must be another Mozilla
-	else {
-	  browser = "Mozilla (not Firefox)"
-	}
-}
-
 // Is this a version of Opera?
 if ($.browser.opera) {
 	userAgent = userAgent.substring(userAgent.indexOf('version/') + 8);
