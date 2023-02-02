@@ -26,3 +26,8 @@
 | Canada | A visit to any city with a sports bar during a hockey season | 20 |
 | Australia |  Sydney opera House| 15 |
 | Finland | The Happiest Country in the World, as well as having the world's best education system and cleanest air. | 30 |
+
+---
+### Pithy Quotes
+> The first step is to establish that something is possible; then probability will occur - *Elon Musk* <br>
+> It's hard to soar with the eagles when you're surrounded by turkeys - *Adam Sandler*
